@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+
+
+    </head>
+    <body>
+    <p>The difference here.</p>
+      <blockquote cite="wherever your source comes from">
+      This is a really long quote that will definitely be over four lines by the time I am done typing it. Right now it is only a short paragraph, but over time as I continue typing, it becomes a longer paragraph. This is also a sentence. Additionally, this is a sentence. Moreover, I am done typing this now.
+      </blockquote>
+
+      <address>
+        <p><a href= "https://youtu.be/dQw4w9WgXcQ">Email me for more pointless block quotes</a></p>
+        <p>905 North Broom Street, Wilmington, DE 19806</p>
+      </address>
+    <p>It was the <del>worst</del> <ins>best</ins> <s>apple</s>... I mean avocado she had ever had.</p>
+
+    </body>
+  </html>
